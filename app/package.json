@@ -1,0 +1,27 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Project base set-up",
+  "main": "index.js",
+  "scripts": {
+    "test": "No test commnand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gumedean/Javascript.git"
+  },
+  "keywords": [
+    "No",
+    "keywords",
+    "supported"
+  ],
+  "author": "Andile Gumede",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gumedean/Javascript/issues"
+  },
+  "homepage": "https://github.com/Gumedean/Javascript#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
